@@ -78,13 +78,14 @@ body {
   /*CSS tabel */
   .tabelheading h2 {
     padding: 15px;
-    margin-top: -20px; 
+    margin-top: -20px;
+    
   }
   
   .tabeljenis {
     border: 1px solid black;
     border-collapse: collapse;
-    width: 75px;
+    width: 50px;
     height: 100px;
     text-align: justify;
     margin-top: -20px;
@@ -97,7 +98,7 @@ body {
   }
   
   th {
-    text-align: center;
+    text-align: justify;
   }
   .salmon{
     color:salmon;
