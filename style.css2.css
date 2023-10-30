@@ -14,7 +14,7 @@ body {
   
   /* CSS Box Model, CSS Outline, CSS Text, CSS Fonts,CSS Links, CSS List */
   .container {
-    width: 100%;
+    width: 62%;
     margin: auto;
     background-color: #fff;
     outline-style: solid;
