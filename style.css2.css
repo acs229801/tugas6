@@ -84,9 +84,9 @@ body {
   .tabeljenis {
     border: 1px solid black;
     border-collapse: collapse;
-    width: 75px;
+    width: 50px;
     height: 100px;
-    text-align: center;
+    text-align: justify;
     margin-top: -20px;
     margin-left: 30px;
   }
